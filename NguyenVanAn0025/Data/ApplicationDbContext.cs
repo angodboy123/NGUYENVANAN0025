@@ -13,4 +13,8 @@ using NguyenVanAn0025.Models;
         }
 
         public DbSet<NguyenVanAn0025.Models.NVA025SanPham> NVA025SanPham { get; set; } = default!;
+
+        public DbSet<NguyenVanAn0025.Models.NVA025New> NVA025New { get; set; } = default!;
+
+      
     }

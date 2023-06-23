@@ -18645,8 +18645,28 @@
   "RootNamespace": "NguyenVanAn0025",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\NVA025New\\Index.cshtml",
+      "TargetPath": "Views\\NVA025New\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\NVA025New\\Create.cshtml",
+      "TargetPath": "Views\\NVA025New\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\NVA025New\\Edit.cshtml",
+      "TargetPath": "Views\\NVA025New\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\NVA025New\\Details.cshtml",
+      "TargetPath": "Views\\NVA025New\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18697,6 +18717,11 @@
     {
       "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\An Nguyen\\Desktop\\NGUYENVANAN0025\\NguyenVanAn0025\\Views\\NVA025New\\Delete.cshtml",
+      "TargetPath": "Views\\NVA025New\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
